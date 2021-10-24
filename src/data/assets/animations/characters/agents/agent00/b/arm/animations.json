@@ -1,0 +1,242 @@
+{
+  "alien-blaster-left": {
+    "frames": [
+      "alien-blaster/alien-blaster-left.png"
+    ],
+    "oscillate": false
+  },
+  "alien-blaster-right": {
+    "frames": [
+      "alien-blaster/alien-blaster-right.png"
+    ],
+    "oscillate": false
+  },
+  "alien-blaster-up": {
+    "frames": [
+      "alien-blaster/alien-blaster-up.png"
+    ],
+    "oscillate": false
+  },
+  "alien-blaster-down": {
+    "frames": [
+      "alien-blaster/alien-blaster-down.png"
+    ],
+    "oscillate": false
+  },
+  "alien-mine-left": {
+    "frames": [
+      "alien-mine/alien-mine-left.png"
+    ],
+    "oscillate": false
+  },
+  "alien-mine-right": {
+    "frames": [
+      "alien-mine/alien-mine-right.png"
+    ],
+    "oscillate": false
+  },
+  "alien-mine-up": {
+    "frames": [
+      "alien-mine/alien-mine-up.png"
+    ],
+    "oscillate": false
+  },
+  "alien-mine-down": {
+    "frames": [
+      "alien-mine/alien-mine-down.png"
+    ],
+    "oscillate": false
+  },
+  "unarmed-left": {
+    "frames": [
+      "unarmed/unarmed-left.png"
+    ],
+    "oscillate": false
+  },
+  "unarmed-right": {
+    "frames": [
+      "unarmed/unarmed-right.png"
+    ],
+    "oscillate": false
+  },
+  "unarmed-up": {
+    "frames": [
+      "unarmed/unarmed-up.png"
+    ],
+    "oscillate": false
+  },
+  "unarmed-down": {
+    "frames": [
+      "unarmed/unarmed-down.png"
+    ],
+    "oscillate": false
+  },
+  "frag-left": {
+    "frames": [
+      "frag/frag-left.png"
+    ],
+    "oscillate": false
+  },
+  "frag-right": {
+    "frames": [
+      "frag/frag-right.png"
+    ],
+    "oscillate": false
+  },
+  "frag-up": {
+    "frames": [
+      "frag/frag-up.png"
+    ],
+    "oscillate": false
+  },
+  "frag-down": {
+    "frames": [
+      "frag/frag-down.png"
+    ],
+    "oscillate": false
+  },
+  "glock-left": {
+    "frames": [
+      "glock/glock-left.png"
+    ],
+    "oscillate": false
+  },
+  "glock-right": {
+    "frames": [
+      "glock/glock-right.png"
+    ],
+    "oscillate": false
+  },
+  "glock-up": {
+    "frames": [
+      "glock/glock-up.png"
+    ],
+    "oscillate": false
+  },
+  "glock-down": {
+    "frames": [
+      "glock/glock-down.png"
+    ],
+    "oscillate": false
+  },
+  "desert-eagle-left": {
+    "frames": [
+      "desert-eagle/desert-eagle-left.png"
+    ],
+    "oscillate": false
+  },
+  "desert-eagle-right": {
+    "frames": [
+      "desert-eagle/desert-eagle-right.png"
+    ],
+    "oscillate": false
+  },
+  "desert-eagle-up": {
+    "frames": [
+      "desert-eagle/desert-eagle-up.png"
+    ],
+    "oscillate": false
+  },
+  "desert-eagle-down": {
+    "frames": [
+      "desert-eagle/desert-eagle-down.png"
+    ],
+    "oscillate": false
+  },
+  "mp5-left": {
+    "frames": [
+      "mp5/mp5-left.png"
+    ],
+    "oscillate": false
+  },
+  "mp5-right": {
+    "frames": [
+      "mp5/mp5-right.png"
+    ],
+    "oscillate": false
+  },
+  "mp5-up": {
+    "frames": [
+      "mp5/mp5-up.png"
+    ],
+    "oscillate": false
+  },
+  "mp5-down": {
+    "frames": [
+      "mp5/mp5-down.png"
+    ],
+    "oscillate": false
+  },
+  "rpg-left": {
+    "frames": [
+      "rpg/rpg-left.png"
+    ],
+    "oscillate": false
+  },
+  "rpg-right": {
+    "frames": [
+      "rpg/rpg-right.png"
+    ],
+    "oscillate": false
+  },
+  "rpg-up": {
+    "frames": [
+      "rpg/rpg-up.png"
+    ],
+    "oscillate": false
+  },
+  "rpg-down": {
+    "frames": [
+      "rpg/rpg-down.png"
+    ],
+    "oscillate": false
+  },
+  "invisibility-left": {
+    "frames": [
+      "invisibility/invisibility-left.png"
+    ],
+    "oscillate": false
+  },
+  "invisibility-right": {
+    "frames": [
+      "invisibility/invisibility-right.png"
+    ],
+    "oscillate": false
+  },
+  "invisibility-up": {
+    "frames": [
+      "invisibility/invisibility-up.png"
+    ],
+    "oscillate": false
+  },
+  "invisibility-down": {
+    "frames": [
+      "invisibility/invisibility-down.png"
+    ],
+    "oscillate": false
+  },
+  "shape-shift-left": {
+    "frames": [
+      "shape-shift/shape-shift-left.png"
+    ],
+    "oscillate": false
+  },
+  "shape-shift-right": {
+    "frames": [
+      "shape-shift/shape-shift-right.png"
+    ],
+    "oscillate": false
+  },
+  "shape-shift-up": {
+    "frames": [
+      "shape-shift/shape-shift-up.png"
+    ],
+    "oscillate": false
+  },
+  "shape-shift-down": {
+    "frames": [
+      "shape-shift/shape-shift-down.png"
+    ],
+    "oscillate": false
+  }
+}

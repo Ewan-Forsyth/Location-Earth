@@ -1,0 +1,15 @@
+{
+    "primary":[0, 119, 255, 255],
+    "primary-transparent-00":[0, 119, 255, 128],
+    "uiButtonShadow":[0, 119, 255, 50],
+    "uiButtonHover":[0, 80, 216, 255],
+    "uiButtonText":[255, 255, 255, 255],
+    "uiButtonShadowActive":[255, 78, 0, 255],
+    "option-background": [50, 150, 255, 255],
+    "option-background-alt": [50, 150, 255, 150],
+    "negative": [160, 0, 0, 255],
+    "positive": [0, 170, 0, 255],
+    "transparent": [0, 0, 0, 0],
+    "primary-transparent-01":[0, 119, 255, 32],
+    "pause-tint":[50, 50, 50, 150]
+}

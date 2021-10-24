@@ -1,0 +1,26 @@
+{
+    "cactus-desert00": {
+        "frames": ["cactus00.png"],
+        "oscillate": false
+    },
+    "cactus-desert01": {
+        "frames": ["cactus01.png"],
+        "oscillate": false
+    },
+    "cactus-desert02": {
+        "frames": ["cactus02.png"],
+        "oscillate": false
+    },
+    "cactus-desert03": {
+        "frames": ["cactus03.png"],
+        "oscillate": false
+    },
+    "cactus-desert04": {
+        "frames": ["cactus04.png"],
+        "oscillate": false
+    },
+    "cactus-desert05": {
+        "frames": ["cactus05.png"],
+        "oscillate": false
+    }
+}

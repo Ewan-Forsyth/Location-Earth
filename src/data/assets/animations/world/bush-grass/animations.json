@@ -1,0 +1,26 @@
+{
+    "bush-grass00": {
+        "frames": ["bush00.png"],
+        "oscillate": false
+    },
+    "bush-grass01": {
+        "frames": ["bush01.png"],
+        "oscillate": false
+    },
+    "bush-grass02": {
+        "frames": ["bush02.png"],
+        "oscillate": false
+    },
+    "bush-grass03": {
+        "frames": ["bush03.png"],
+        "oscillate": false
+    },
+    "bush-grass04": {
+        "frames": ["bush04.png"],
+        "oscillate": false
+    },
+    "bush-grass05": {
+        "frames": ["bush05.png"],
+        "oscillate": false
+    }
+}

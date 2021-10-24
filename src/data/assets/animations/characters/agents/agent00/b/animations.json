@@ -1,0 +1,38 @@
+{
+    "move-left": {
+        "frames": ["left/move-left-01.png", "left/move-left-00.png", "left/move-left-idle.png", "left/move-left-02.png", "left/move-left-03.png"],
+        "oscillate": true
+    },
+    "move-right": {
+        "frames": ["right/move-right-01.png", "right/move-right-00.png", "right/move-right-idle.png", "right/move-right-02.png", "right/move-right-03.png"],
+        "oscillate": true
+    },
+    "move-up": {
+        "frames": ["up/move-up-01.png", "up/move-up-00.png", "up/move-up-idle.png", "up/move-up-02.png", "up/move-up-03.png"],
+        "oscillate": true
+    },
+    "move-down": {
+        "frames": ["down/move-down-01.png", "down/move-down-00.png", "down/move-down-idle.png", "down/move-down-02.png", "down/move-down-03.png"],
+        "oscillate": true
+    },
+    "idle-left": {
+        "frames": ["left/move-left-idle.png", "left/move-left-idle.png", "left/move-left-idle.png", "left/move-left-idle.png", "left/move-left-idle.png", "left/move-left-idle.png", "left/move-left-idle.png", "left/move-left-idle.png", "left/move-left-idle.png", "left/move-left-idle.png", "left/move-left-idle.png", "left/move-left-idle.png", "left/move-left-idle.png", "left/move-left-idle.png", "left/move-left-idle.png", "left/move-left-idle.png", "left/move-left-idle.png", "left/move-left-idle.png", "left/move-left-idle.png", "left/move-left-idle.png", "left/move-left-idle.png", "left/move-left-idle.png", "left/move-left-idle.png", "left/move-left-idle.png", "left/move-left-idle.png", "left/move-left-idle.png", "left/move-left-idle.png", "left/move-left-idle.png", "left/move-left-idle.png", "left/move-left-idle.png", "left/move-left-idle.png", "left/move-left-idle.png", "left/move-left-idle-blink.png", "left/move-left-idle.png", "left/move-left-idle-blink.png"],
+        "oscillate": false
+    },
+    "idle-right": {
+        "frames": ["right/move-right-idle.png", "right/move-right-idle.png", "right/move-right-idle.png", "right/move-right-idle.png", "right/move-right-idle.png", "right/move-right-idle.png", "right/move-right-idle.png", "right/move-right-idle.png", "right/move-right-idle.png", "right/move-right-idle.png", "right/move-right-idle.png", "right/move-right-idle.png", "right/move-right-idle.png", "right/move-right-idle.png", "right/move-right-idle.png", "right/move-right-idle.png", "right/move-right-idle.png", "right/move-right-idle.png", "right/move-right-idle.png", "right/move-right-idle.png", "right/move-right-idle.png", "right/move-right-idle.png", "right/move-right-idle.png", "right/move-right-idle.png", "right/move-right-idle.png", "right/move-right-idle.png", "right/move-right-idle.png", "right/move-right-idle.png", "right/move-right-idle.png", "right/move-right-idle.png", "right/move-right-idle.png", "right/move-right-idle.png", "right/move-right-idle-blink.png", "right/move-right-idle.png", "right/move-right-idle-blink.png"],
+        "oscillate": false
+    },
+    "idle-up": {
+        "frames": ["up/move-up-idle.png"],
+        "oscillate": false
+    },
+    "idle-down": {
+        "frames": ["down/move-down-idle.png", "down/move-down-idle.png", "down/move-down-idle.png", "down/move-down-idle.png", "down/move-down-idle.png", "down/move-down-idle.png", "down/move-down-idle.png", "down/move-down-idle.png", "down/move-down-idle.png", "down/move-down-idle.png", "down/move-down-idle.png", "down/move-down-idle.png", "down/move-down-idle.png", "down/move-down-idle.png", "down/move-down-idle.png", "down/move-down-idle.png", "down/move-down-idle.png", "down/move-down-idle.png", "down/move-down-idle.png", "down/move-down-idle.png", "down/move-down-idle.png", "down/move-down-idle.png", "down/move-down-idle.png", "down/move-down-idle.png", "down/move-down-idle.png", "down/move-down-idle.png", "down/move-down-idle.png", "down/move-down-idle.png", "down/move-down-idle.png", "down/move-down-idle.png", "down/move-down-idle.png", "down/move-down-idle.png", "down/move-down-idle-blink.png", "down/move-down-idle.png", "down/move-down-idle-blink.png"],
+        "oscillate": false
+    },
+    "dead": {
+        "frames": ["dead/dead.png"],
+        "oscillate": false
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "tree-autumn00": {
+        "frames": ["tree00.png"],
+        "oscillate": false
+    }, 
+    "tree-autumn01": {
+        "frames": ["tree01.png"],
+        "oscillate": false
+    }, 
+    "tree-autumn02": {
+        "frames": ["tree02.png"],
+        "oscillate": false
+    }, 
+    "tree-autumn03": {
+        "frames": ["tree03.png"],
+        "oscillate": false
+    }, 
+    "tree-autumn04": {
+        "frames": ["tree04.png"],
+        "oscillate": false
+    }, 
+    "tree-autumn05": {
+        "frames": ["tree05.png"],
+        "oscillate": false
+    }
+}

@@ -1,0 +1,20 @@
+{
+
+    "zedekiah": {
+        "frames": ["captain-zedekiah.png"],
+        "oscillate": false
+    },
+    "shiphrah": {
+        "frames": ["science-officer-shiphrah.png"],
+        "oscillate": false
+    },
+    "eglon": {
+        "frames": ["pilot-eglon.png"],
+        "oscillate": false
+    },
+    "jael": {
+        "frames": ["security-officer-jael.png"],
+        "oscillate": false
+    }
+
+}

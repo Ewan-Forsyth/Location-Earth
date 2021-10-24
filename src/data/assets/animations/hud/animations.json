@@ -1,0 +1,58 @@
+{
+    "health-normal": {
+        "frames": ["health/health-normal.png"],
+        "oscillate": false
+    },
+    "health-low": {
+        "frames": ["health/health-low.png"],
+        "oscillate": false
+    },
+    "ammo-energy-normal": {
+        "frames": ["ammo/energy/ammo-energy-normal.png"],
+        "oscillate": false
+    },
+    "ammo-energy-low": {
+        "frames": ["ammo/energy/ammo-energy-low.png"],
+        "oscillate": false
+    },
+    "crosshair-blue": {
+        "frames": ["crosshair/crosshair-blue.png"],
+        "oscillate": false
+    },
+    "weapon-alien-blaster": {
+        "frames": ["weapon-slots/alien-blaster.png"],
+        "oscillate": false
+    },
+    "weapon-alien-mine": {
+        "frames": ["weapon-slots/alien-mine.png"],
+        "oscillate": false
+    },
+    "weapon-frag": {
+        "frames": ["weapon-slots/frag.png"],
+        "oscillate": false
+    },
+    "weapon-desert-eagle": {
+        "frames": ["weapon-slots/desert-eagle.png"],
+        "oscillate": false
+    },
+    "weapon-glock": {
+        "frames": ["weapon-slots/glock.png"],
+        "oscillate": false
+    },
+    "weapon-mp5": {
+        "frames": ["weapon-slots/mp5.png"],
+        "oscillate": false
+    },
+    "weapon-rpg": {
+        "frames": ["weapon-slots/rpg.png"],
+        "oscillate": false
+    },
+    "weapon-invisibility": {
+        "frames": ["weapon-slots/invisibility.png"],
+        "oscillate": false
+    },
+    "weapon-shape-shift": {
+        "frames": ["weapon-slots/shape-shift.png"],
+        "oscillate": false
+    }
+}

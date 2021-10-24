@@ -1,0 +1,56 @@
+{
+  "alien-blaster": {
+    "ammo-type": "energy",
+    "capacity": 64,
+    "fire-rate": 48,
+    "alternative-fire": false
+  },
+  "alien-mine": {
+    "ammo-type": "alien-mine",
+    "capacity": 999999999,
+    "fire-rate": 112,
+    "alternative-fire": true
+  },
+  "frag": {
+    "ammo-type": "frag",
+    "capacity": 999999999,
+    "fire-rate": 96,
+    "alternative-fire": true
+  },
+  "glock": {
+    "ammo-type": "9mm",
+    "capacity": 64,
+    "fire-rate": 32,
+    "alternative-fire": false
+  },
+  "desert-eagle": {
+    "ammo-type": ".44",
+    "capacity": 16,
+    "fire-rate": 80,
+    "alternative-fire": false
+  },
+  "mp5": {
+    "ammo-type": "10mm",
+    "capacity": 256,
+    "fire-rate": 16,
+    "alternative-fire": false
+  },
+  "rpg": {
+    "ammo-type": "rocket",
+    "capacity": 7,
+    "fire-rate": 96,
+    "alternative-fire": false
+  },
+  "invisibility": {
+    "ammo-type": "none",
+    "capacity": 600,
+    "fire-rate": 1,
+    "alternative-fire": false
+  },
+  "shape-shift": {
+    "ammo-type": "none",
+    "capacity": 600,
+    "fire-rate": 1,
+    "alternative-fire": false
+  }
+}

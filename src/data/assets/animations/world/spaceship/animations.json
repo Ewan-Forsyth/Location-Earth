@@ -1,0 +1,6 @@
+{
+    "ufo": {
+        "frames": ["spaceship.png"],
+        "oscillate": false
+    }
+}

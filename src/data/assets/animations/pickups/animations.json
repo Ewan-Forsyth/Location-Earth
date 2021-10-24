@@ -1,0 +1,42 @@
+{
+    "alien-blaster": {
+    "frames": ["alien-blaster/alien-blaster.png"],
+    "oscillate": false
+    },
+    "alien-mine": {
+        "frames": ["alien-mine/alien-mine.png"],
+        "oscillate": false
+    },
+    "frag": {
+        "frames": ["frag/frag.png"],
+        "oscillate": false
+    },
+    "glock": {
+        "frames": ["glock/glock.png"],
+        "oscillate": false
+    },
+    "desert-eagle": {
+        "frames": ["desert-eagle/desert-eagle.png"],
+        "oscillate": false
+    },
+    "mp5": {
+        "frames": ["mp5/mp5.png"],
+        "oscillate": false
+    },
+    "rpg": {
+        "frames": ["rpg/rpg.png"],
+        "oscillate": false
+    },
+    "health": {
+        "frames": ["health/health.png"],
+        "oscillate": false
+    },
+    "invisibility": {
+        "frames": ["invisibility/invisibility.png"],
+        "oscillate": false
+    },
+    "shape-shift": {
+        "frames": ["shape-shift/shape-shift.png"],
+        "oscillate": false
+    }
+}

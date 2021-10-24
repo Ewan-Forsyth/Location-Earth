@@ -1,0 +1,26 @@
+{
+    "rock-mountain00": {
+        "frames": ["rock00.png"],
+        "oscillate": false
+    },
+    "rock-mountain01": {
+        "frames": ["rock01.png"],
+        "oscillate": false
+    },
+    "rock-mountain02": {
+        "frames": ["rock02.png"],
+        "oscillate": false
+    },
+    "rock-mountain03": {
+        "frames": ["rock03.png"],
+        "oscillate": false
+    },
+    "rock-mountain04": {
+        "frames": ["rock04.png"],
+        "oscillate": false
+    },
+    "rock-mountain05": {
+        "frames": ["rock05.png"],
+        "oscillate": false
+    }
+}

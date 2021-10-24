@@ -1,0 +1,16 @@
+{
+
+    "menu": {
+        "frames": ["menu/flying_spacecraft_0.png", "menu/flying_spacecraft_1.png"],
+        "oscillate": false
+    },
+    "menu-alt": {
+        "frames": ["menu-alt/flying_spacecraft_0.png", "menu-alt/flying_spacecraft_1.png"],
+        "oscillate": false
+    },
+    "menu-red": {
+        "frames": ["menu-red/flying_spacecraft_0.png", "menu-red/flying_spacecraft_1.png"],
+        "oscillate": false
+    }
+
+}

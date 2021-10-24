@@ -1,0 +1,8 @@
+{
+
+    "menu": {
+        "frames": ["menu.png"],
+        "oscillate": false
+    }
+
+}

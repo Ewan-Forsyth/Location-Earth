@@ -1,0 +1,26 @@
+{
+    "bush-autumn00": {
+        "frames": ["bush00.png"],
+        "oscillate": false
+    },
+    "bush-autumn01": {
+        "frames": ["bush01.png"],
+        "oscillate": false
+    },
+    "bush-autumn02": {
+        "frames": ["bush02.png"],
+        "oscillate": false
+    },
+    "bush-autumn03": {
+        "frames": ["bush03.png"],
+        "oscillate": false
+    },
+    "bush-autumn04": {
+        "frames": ["bush04.png"],
+        "oscillate": false
+    },
+    "bush-autumn05": {
+        "frames": ["bush05.png"],
+        "oscillate": false
+    }
+}

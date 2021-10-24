@@ -1,0 +1,26 @@
+{
+    "tree-snow00": {
+        "frames": ["tree00.png"],
+        "oscillate": false
+    }, 
+    "tree-snow01": {
+        "frames": ["tree01.png"],
+        "oscillate": false
+    }, 
+    "tree-snow02": {
+        "frames": ["tree02.png"],
+        "oscillate": false
+    }, 
+    "tree-snow03": {
+        "frames": ["tree03.png"],
+        "oscillate": false
+    }, 
+    "tree-snow04": {
+        "frames": ["tree04.png"],
+        "oscillate": false
+    }, 
+    "tree-snow05": {
+        "frames": ["tree05.png"],
+        "oscillate": false
+    }
+}

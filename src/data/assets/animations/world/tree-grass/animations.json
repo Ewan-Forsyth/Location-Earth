@@ -1,0 +1,26 @@
+{
+    "tree-grass00": {
+        "frames": ["tree00.png"],
+        "oscillate": false
+    }, 
+    "tree-grass01": {
+        "frames": ["tree01.png"],
+        "oscillate": false
+    }, 
+    "tree-grass02": {
+        "frames": ["tree02.png"],
+        "oscillate": false
+    }, 
+    "tree-grass03": {
+        "frames": ["tree03.png"],
+        "oscillate": false
+    }, 
+    "tree-grass04": {
+        "frames": ["tree04.png"],
+        "oscillate": false
+    }, 
+    "tree-grass05": {
+        "frames": ["tree05.png"],
+        "oscillate": false
+    }
+}

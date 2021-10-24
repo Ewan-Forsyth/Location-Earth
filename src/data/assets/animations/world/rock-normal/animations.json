@@ -1,0 +1,26 @@
+{
+    "rock-normal00": {
+        "frames": ["rock00.png"],
+        "oscillate": false
+    },
+    "rock-normal01": {
+        "frames": ["rock01.png"],
+        "oscillate": false
+    },
+    "rock-normal02": {
+        "frames": ["rock02.png"],
+        "oscillate": false
+    },
+    "rock-normal03": {
+        "frames": ["rock03.png"],
+        "oscillate": false
+    },
+    "rock-normal04": {
+        "frames": ["rock04.png"],
+        "oscillate": false
+    },
+    "rock-normal05": {
+        "frames": ["rock05.png"],
+        "oscillate": false
+    }
+}

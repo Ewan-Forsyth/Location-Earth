@@ -1,0 +1,46 @@
+{
+  "energy": {
+    "weapon-type": "gun",
+    "ammo-lifespan": 128,
+    "damage": 51,
+    "speed": 5
+  },
+  "alien-mine": {
+    "weapon-type": "explosive",
+    "ammo-lifespan": 64,
+    "damage": 64,
+    "speed": 3,
+    "blast-radius-scalar": 8
+  },
+  "frag": {
+    "weapon-type": "explosive",
+    "ammo-lifespan": 96,
+    "damage": 64,
+    "speed": 4,
+    "blast-radius-scalar": 8
+  },
+  "9mm": {
+    "weapon-type": "gun",
+    "ammo-lifespan": 192,
+    "damage": 24,
+    "speed": 4
+  },
+  ".44": {
+    "weapon-type": "gun",
+    "ammo-lifespan": 192,
+    "damage": 64,
+    "speed": 6
+  },
+  "10mm": {
+    "weapon-type": "gun",
+    "ammo-lifespan": 192,
+    "damage": 24,
+    "speed": 6
+  },
+  "rocket": {
+    "weapon-type": "gun",
+    "ammo-lifespan": 256,
+    "damage": 90,
+    "speed": 5
+  }
+}

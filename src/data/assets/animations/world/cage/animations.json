@@ -1,0 +1,10 @@
+{
+    "cage_back": {
+        "frames": ["cage_back.png"],
+        "oscillate": false
+    },
+    "cage_front": {
+        "frames": ["cage_front.png"],
+        "oscillate": false
+    }
+}
